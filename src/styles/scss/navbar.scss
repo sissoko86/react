@@ -1,0 +1,24 @@
+.navbar.navbar-inverse.navbar-fixed-top {
+    min-height: 65px;
+    background-color: #0067b1;
+
+    .navbar-brand {
+        font-size:26px;
+        color: #fff;
+
+        small {
+            padding-top: 3px;
+            display: block;
+            font-size: 18px;
+        }
+    }
+
+    .navbar-logo{
+        width: 100px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        display: block;
+    }
+
+}
